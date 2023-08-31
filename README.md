@@ -18,9 +18,9 @@ Telegram Бот для управления Аккаунтами (Спам, Пр
 
 telegram_id - [Ваш Telegram ID](https://t.me/getmyid_bot). Этот параметр обеспечивает возможность отправки команд только администратору.
 
-api_id и api_hash: Для создания приложения на сайте Telegram, перейдите на [my.telegram.org](https://my.telegram.org/auth), войдите или зарегистрируйтесь, создайте приложение и получите api_id и api_hash 
-
 access_token: Чтобы создать бота, воспольз уйтесь [BotFather](https://t.me/BotFather), создайте нового бота и получите access_token.
+
+api_id и api_hash: Для создания приложения на сайте Telegram, перейдите на [my.telegram.org](https://my.telegram.org/auth), войдите или зарегистрируйтесь, создайте приложение и получите api_id и api_hash.
 
 DelaySendMin и DelaySendMax: Определяют интервал времени в секундах между отправкой сообщений.
 DelayCycleMin и DelayCycleMax: Определяют интервал времени в секундах между началом цикла после полного прохода по всем чатам.
